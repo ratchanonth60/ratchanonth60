@@ -30,11 +30,7 @@ Here’s a peek at what I’ve been building:
 
 ## ⚙️ Tools of Trade
 
-## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratchanonth60&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -68,18 +64,13 @@ Here’s a peek at what I’ve been building:
 
 ---
 
-## 📜 Licenses
+## 🌐 3D Contributions
 
-Here’s an overview of the open-source licenses used across my projects:
+Check out my GitHub contributions in 3D:
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ratchanonth60?template=classic&base=&plugin_licenses=yes&plugin_licenses_ratio=yes&config_timezone=Asia%2FBangkok" alt="Licenses Metrics"/>
+  <img src="https://github.com/ratchanonth60/ratchanonth60/raw/main/profile-3d-contrib/profile-git3d.svg" alt="3D Contribution Graph"/>
 </p>
-
-- **Open-Source Ratio**: Visualized above with a graph showing the distribution of licenses in my repositories.  
-- **Details**: Check individual repositories for specific license information (e.g., MIT, Apache, GPL).  
-
----
 
 ## 📬 Get in Touch
 
@@ -90,13 +81,11 @@ Love what you see? Feel free to explore my repos, fork them, or drop me a messag
 
 ---
 
-## 📊 My GitHub Metrics
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ratchanonth60?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBangkok&isocalendar=half-year&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.recent.load=300&languages.recent.days=14" alt="GitHub Metrics"/>
-</p>
-
----
+  <img src="https://github-readme-stats.vercel.app/api?username=ratchanonth60&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>---
 
 <p align="center">
   <i>“Code is like poetry; it’s all about expressing ideas efficiently.”</i>
