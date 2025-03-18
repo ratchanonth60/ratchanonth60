@@ -1,5 +1,4 @@
 # 🚀 Welcome to My GitHub
-![Logo]: (https://www.logoai.com/logo/5891479)
 Hey there! I’m **Ratchanonth**, aka *NoobMaster*. This is my little corner of GitHub where I showcase my projects, experiments, and coding adventures. Glad you’re here!
 
 ---
