@@ -11,7 +11,6 @@ Hey there! I’m **Ratchanonth**, aka *NoobMaster*. This is my little corner of 
 - **Education**:  
   - 🎓 B.Eng. in Computer Engineering from Rajamangala University of Technology Lanna (RMUTL)  
   - 📚 Currently pursuing an M.Sc. in Computer Science at Chiang Mai University (CMU)  
-- **Location**: [Add your location here, if desired]  
 - **Contact**: GitHub: [ratchanonth60](https://github.com/ratchanonth60)  
 
 ---
