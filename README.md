@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ratchanonth60/ratchanonth60/raw/main/assets/github-header.png" alt="Header Image" width="600"/>
-</p>
-
 # 🚀 Welcome to My GitHub
 
 Hey there! I’m **Ratchanonth**, aka *NoobMaster*. This is my little corner of GitHub where I showcase my projects, experiments, and coding adventures. Glad you’re here!
