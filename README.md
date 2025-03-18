@@ -68,10 +68,14 @@ Love what you see? Feel free to explore my repos, fork them, or drop me a messag
 
 ---
 
-<p align="center">
-  <i>“Code is like poetry; it’s all about expressing ideas efficiently.”</i>
-</p>
+## 📊 My GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratchanonth60&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://metrics.lecoq.io/ratchanonth60?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBangkok&isocalendar=half-year&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.recent.load=300&languages.recent.days=14" alt="GitHub Metrics"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is like poetry; it’s all about expressing ideas efficiently.”</i>
 </p>
