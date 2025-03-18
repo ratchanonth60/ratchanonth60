@@ -67,6 +67,19 @@ Here’s a peek at what I’ve been building:
 
 ---
 
+## 📜 Licenses
+
+Here’s an overview of the open-source licenses used across my projects:
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/ratchanonth60?template=classic&base=&plugin_licenses=yes&plugin_licenses_ratio=yes&config_timezone=Asia%2FBangkok" alt="Licenses Metrics"/>
+</p>
+
+- **Open-Source Ratio**: Visualized above with a graph showing the distribution of licenses in my repositories.  
+- **Details**: Check individual repositories for specific license information (e.g., MIT, Apache, GPL).  
+
+---
+
 ## 📬 Get in Touch
 
 Love what you see? Feel free to explore my repos, fork them, or drop me a message if you want to team up!  
