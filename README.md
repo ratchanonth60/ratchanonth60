@@ -30,6 +30,12 @@ Here’s a peek at what I’ve been building:
 
 ## ⚙️ Tools of Trade
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ratchanonth60&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
