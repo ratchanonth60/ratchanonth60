@@ -12,6 +12,9 @@ Hey there! I’m **Ratchanonth**, aka *NoobMaster*. This is my little corner of 
 
 - **Name**: Ratchanonth (NoobMaster)  
 - **Passions**: Coding 💻 | Tech Exploration 🌐 | Creative Problem-Solving 🧩  
+- **Education**:  
+  - 🎓 B.Eng. in Computer Engineering from Rajamangala University of Technology Lanna (RMUTL)  
+  - 📚 Currently pursuing an M.Sc. in Computer Science at Chiang Mai University (CMU)  
 - **Location**: [Add your location here, if desired]  
 - **Contact**: GitHub: [ratchanonth60](https://github.com/ratchanonth60)  
 
@@ -48,6 +51,9 @@ Here’s a peek at what I’ve been building:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Gorm](https://img.shields.io/badge/Gorm-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Machinery](https://img.shields.io/badge/Machinery-FF5733?style=for-the-badge&logo=go&logoColor=white)  
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -56,6 +62,8 @@ Here’s a peek at what I’ve been building:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 
 ---
 
