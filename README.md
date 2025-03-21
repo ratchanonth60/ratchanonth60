@@ -63,15 +63,6 @@ Here’s a peek at what I’ve been building:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 
 ---
-
-## 🌐 3D Contributions
-
-Check out my GitHub contributions in 3D:
-
-<p align="center">
-  <img src="https://github.com/ratchanonth60/ratchanonth60/raw/main/profile-3d-contrib/profile-git3d.svg" alt="3D Contribution Graph"/>
-</p>
-
 ## 📬 Get in Touch
 
 Love what you see? Feel free to explore my repos, fork them, or drop me a message if you want to team up!  
