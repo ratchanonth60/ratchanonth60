@@ -14,12 +14,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Explicitly pass GITHUB_TOKEN for authentication
+          token: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }} # Explicitly pass GITHUB_TOKEN for authentication
 
       - name: Generate 3D Profile Contribution
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
